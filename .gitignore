@@ -11,10 +11,6 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files (opsional, sesuaikan dengan kebutuhan)
-*.csv
-*.json
-
 # IDE
 .vscode/
 .idea/
